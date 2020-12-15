@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Kooki-eByte/Forage)
 
-### Head to the Forage App here!(https://forage-mealplan.herokuapp.com/)
+### [Head to the Forage App here!](https://forage-mealplan.herokuapp.com/)
 
 ## Table of Contents
 
